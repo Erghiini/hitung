@@ -1,0 +1,2 @@
+# hitung
+tugas METNUM1
